@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/wedding-invitation-for-programmers/'
+  baseUrl: '/wedding-invitation-for-programmers/'
 }
