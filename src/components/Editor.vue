@@ -28,7 +28,7 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script lang="ts">
   import Prism from 'prismjs'
   import 'prismjs/themes/prism-okaidia.css'
   import '../utils/raf'
@@ -118,9 +118,9 @@
 
 <style lang="less">
 .wedding-editor{
-  position: absolute;
-  top: 0;
-  left: 0;
+  //position: absolute;
+  //top: 0;
+  //left: 0;
   width: 100%;
   height: 100%;
   padding: 15px;
